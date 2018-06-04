@@ -42,7 +42,8 @@ public void run(){
 		else {
 			i=i-1;
 		}
-	}	
+	}
+	
 }
 public int Getm() {
 	return m;
